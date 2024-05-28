@@ -5,6 +5,7 @@
 </div>
 <br>
 <br> -->
+![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)
 <h1 align="center">Hello 👋 I am Jeremy Posada</strong> ✨ </h1>
 
 <p align="center">
@@ -39,54 +40,22 @@
 <p align="center">
   <h2>:star2: Front End</h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,vscode,tailwind,react,angular,npm,netlify,vite,regex&perline=6" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,angular,tailwind,npm,vite,bootstrap&perline=6" />
   </a>
 
   <h2>:zap: Back End</h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,nodejs,aws,idea,eclipse,maven,mysql,postgres,dynamodb,firebase,sqlite&perline=6" />
+    <img src="https://skillicons.dev/icons?i=java,spring,php,laravel,cs,cpp,maven,gradle&perline=6" />
   </a>
 
-  <h2>:hammer: Devops</h2>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=jenkins,terraform&perline=12" />
+   <h2>:hammer: Data base</h2>
+   <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite&perline=12" />
   </a>
 
   <h2>:wrench: Tools</h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postman,docker,git,gitlab,github,ubuntu&perline=6" />
+    <img src="https://skillicons.dev/icons?i=idea,vscode,postman,github,git&perline=6" />
   </a>
 </p>
 <br>
-
-<br/><br/>
-<h2>GitHub :octocat:</h2>
-<!--- stats & Trophy (start) -->
-<p align="center">
-  <!--- stats (start) -->
-<table align="center">
-<tr border="none">
-<td width="60%" align="center">
-
-<img  align="center"  src="https://github-readme-stats.vercel.app/api?username=unprogramadornaceofficial&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=UnProgramadorNaceOfficial&theme=dark&hide_border=false" /> 
-</td>
-
-</tr>
-</table>
-<!--- stats (end) -->
-
-<!--- trophy (start) -->
-<div align=center>
-  <a href="https://github.com/UnProgramadorNaceOfficial" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=unprogramadornaceofficial&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
-</div>
-<!--- trophy (start) -->
-
-</p>       
-<br/>
-<br/>
-<br/>
-<br/>
