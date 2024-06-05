@@ -9,7 +9,7 @@
 <h1 align="center">Hello 👋 I am Jeremy Posada</strong> ✨ </h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+Xdewilo's+Profile!;Aspiring+to+be+a+Full+Stack+Developer!;Don't+Forget+to+Subscribe+to+My+YouTube+Channel!" /></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+Xdewilo's+Profile!;Aspiring+to+be+a+Full+Stack+Developer!" /></a>
 </p>
 
 
