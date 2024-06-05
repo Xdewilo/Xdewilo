@@ -33,6 +33,37 @@
 <!--Intro end-->
   </p>
 <br>
+------------------
+<br>
+<br>
+
+<!--- stats & Trophy (start) -->
+<p align="center">
+  <!--- stats (start) -->
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Xdewilo&theme=dark&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://streak-stats.demolab.com?user=Xdewilo" /> 
+</td>
+
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Xdewilo&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  
+  </td>
+</tr>
+</table>
+<!--- stats (end) -->
+
+<!--- trophy (start) -->
+
+<!--- trophy (start) -->
+
+
+----------------
 
 <h2 align="center">Tecnologías conocidas👨🏻‍💻</h2>
 <!--tech stack icons-->
@@ -57,3 +88,15 @@
     <img src="https://skillicons.dev/icons?i=idea,vscode,postman,github,git&perline=6" />
   </a>
 </p>
+
+
+<!--profile visit count-->
+<div align="center">
+  
+[![](https://visitcount.itsvg.in/api?id=K1ng0hat&icon=3&color=6)](https://visitcount.itsvg.in)
+  
+</div>
+
+
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
