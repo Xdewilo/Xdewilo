@@ -1,13 +1,8 @@
-<!-- <br>
-<br>
-<div align="center">
-    <a href="https://youtube.com/@unprogramadornace" target="_blank"><img align="center" src="./Assets/Circle.png" alt="@unprogramadornace" width="250px"/></a>
+<!-- HEADER -->
+<div align="center" width="100">
+  <img src="https://capsule-render.vercel.app/api?color=0:1408d0,50:0860d0,100:08c4d0&height=250&section=header&text=Hello%20👋%20I%20am%20Jeremy%20Posada&fontSize=30&type=waving&fontColor=fefefe&&animation=fadeIn"
+  alt="header"/>
 </div>
-<br>
-<br> -->
-![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)
-<h1 align="center">Hello 👋 I am Jeremy Posada</strong> ✨ </h1>
-
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+Xdewilo's+Profile!;Aspiring+to+be+a+Full+Stack+Developer!" /></a>
 </p>
