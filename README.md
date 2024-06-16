@@ -27,7 +27,6 @@
 <!--Intro end-->
   </p>
 <br>
-------------------
 <br>
 <br>
 
@@ -51,13 +50,10 @@
 </tr>
 </table>
 <!--- stats (end) -->
-
+<!--Intro start-->
 <!--- trophy (start) -->
 
 <!--- trophy (start) -->
-
-
-----------------
 
 <h2 align="center">Tecnologías conocidas👨🏻‍💻</h2>
 <!--tech stack icons-->
