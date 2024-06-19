@@ -6,7 +6,6 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+Xdewilo's+Profile!;Aspiring+to+be+a+Full+Stack+Developer!" /></a>
 </p>
-
 <p align="center">
     <a href="https://www.linkedin.com/in/jeremy-posada-56855820b/"  target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="@jeremyposada"/></a>
     <a href = "mailto:unprogramadornace@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@jeremyposada" /></a>
