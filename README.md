@@ -60,7 +60,7 @@
 <p align="center">
   <h2>:star2: Front End</h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,angular,tailwind,npm,vite,bootstrap&perline=6" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,tailwind,npm,vite,bootstrap&perline=6" />
   </a>
 
   <h2>:zap: Back End</h2>
