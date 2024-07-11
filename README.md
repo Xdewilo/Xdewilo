@@ -66,7 +66,7 @@
 
   <h2>:zap: Back End</h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,php,laravel,cs,cpp,maven,gradle&perline=6" />
+    <img src="https://skillicons.dev/icons?i=java,spring,php,laravel,maven,gradle&perline=6" />
   </a>
 
    <h2>:hammer: Data base</h2>
