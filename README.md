@@ -76,7 +76,7 @@
 
   <h2>:wrench: Tools</h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=idea,vscode,postman,github,git,npm,&perline=6" />
+    <img src="https://skillicons.dev/icons?i=idea,vscode,postman,github,git,npm&perline=6" />
   </a>
 </p>
 
