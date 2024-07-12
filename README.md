@@ -30,7 +30,6 @@
 <br>
 <br>
 <br>
-
 <!--- stats & Trophy (start) -->
 <p align="center">
   <!--- stats (start) -->
