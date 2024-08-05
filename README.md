@@ -69,7 +69,7 @@
 
    <h2>:hammer: Data base</h2>
    <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite&perline=12" />
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,firebase&perline=12" />
   </a>
 
   <h2>:wrench: Tools</h2>
