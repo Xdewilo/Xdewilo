@@ -64,7 +64,7 @@
 
   <h2>:zap: Back End</h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,go,cs,maven,gradle&perline=6" />
+    <img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,go&perline=6" />
   </a>
 
    <h2>:hammer: Data base</h2>
@@ -74,7 +74,7 @@
 
   <h2>:wrench: Tools</h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=idea,vscode,postman,github,git,docker,npm&perline=6" />
+    <img src="https://skillicons.dev/icons?i=idea,vscode,postman,github,git,docker,maven,gradle,npm&perline=6" />
   </a>
 </p>
 
